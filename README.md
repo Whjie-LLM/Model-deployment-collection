@@ -9,33 +9,47 @@
 
 ---
 
+## 📊 模型部署成果 (Deployment Stats)
+
+以下是部分部署模型的使用活跃度统计
+
+| 模型名称                     | 使用人数/活跃度 | 备注                  |
+| :--------------------------- | :-------------- | :-------------------- |
+| **IndexTTS-2**         | **230+**  | 零样本 TTS 突破性进展 |
+| **OpenClaw**           | **60+**   | 智能体交互工具        |
+| **ComfyUI-FLUX.2-dev** | **近 50** | 图像生成工作流        |
+| **HunyuanVideo-Foley** | **近 50** | 视频音效生成          |
+| **Qwen3-TTS**          | **近 20** | 语音合成部署          |
+
+---
+
 ## 📂 仓库内容概览
 
 目前仓库包含以下几大类别的部署文档：
 
 ### 🎬 视频生成 (Video Generation)
 
-- **[HunyuanVideo 部署文档](Hunyuanvideo部署文档.md)**: 腾讯混元开源的高性能视频基础模型，支持大规模模型训练和推理。
-- **[HunyuanVideo-Foley 部署文档](HunyuanVideo-Foley部署文档.md)**: 腾讯混元开源的端到端视频音效生成模型，专为视频创作设计的 AI 工具。
+- **[HunyuanVideo 部署文档](Hunyuanvideo部署文档.md)**: 腾讯混元开源的高性能视频基础模型，支持大规模模型训练和推理.
+- **[HunyuanVideo-Foley 部署文档](HunyuanVideo-Foley部署文档.md)**: 腾讯混元开源的端到端视频音效生成模型，专为视频创作设计的 AI 工具.
 
 ### 🎨 图像生成 (Image Generation)
 
-- **[FLUX-dev2.0 部署文档](FLux-dev2.0部署文档.md)**: 详细记录了 FLUX.2 [dev] 的部署过程，涵盖文本生成图像、单/多参考编辑等功能。
-- **[Glyph 部署文档](Glyph部署文档.md)**: 专注于设计类或特定视觉模型的部署记录。
+- **[FLUX-dev2.0 部署文档](FLux-dev2.0部署文档.md)**: 详细记录了 FLUX.2 [dev] 的部署过程，涵盖文本生成图像、单/多参考编辑等功能.
+- **[Glyph 部署文档](Glyph部署文档.md)**: 专注于设计类或特定视觉模型的部署记录.
 
 ### 👁️ 多模态视觉 (Vision-Language Models)
 
-- **[Qwen3-VL 部署文档](Qwen3-VL-4B&8B部署文档.md)**: 涵盖 Qwen3-VL 4B/8B 版本的部署，包含视觉感知、推理及智能体交互能力的配置。
+- **[Qwen3-VL 部署文档](Qwen3-VL-4B&8B部署文档.md)**: 涵盖 Qwen3-VL 4B/8B 版本的部署，包含视觉感知、推理及智能体交互能力的配置.
 
 ### 🔊 语音处理 (Speech & Audio)
 
-- **[IndexTTS2 部署文档](IndexTTS2部署文档.md)**: 突破性的自回归零样本 TTS 模型，支持精确的持续时间控制和情感表达。
-- **[Qwen-3TTS 部署文档](Qwen-3TTS部署文档.md)**: 语音合成模型的部署实践。
-- **[VibeVoice-ASR 部署文档](VibeVoice-ASR部署文档.md)**: 语音识别 (ASR) 系统的环境搭建与运行。
+- **[IndexTTS2 部署文档](IndexTTS2部署文档.md)**: 突破性的自回归零样本 TTS 模型，支持精确的持续时间控制和情感表达.
+- **[Qwen-3TTS 部署文档](Qwen-3TTS部署文档.md)**: 语音合成模型的部署实践.
+- **[VibeVoice-ASR 部署文档](VibeVoice-ASR部署文档.md)**: 语音识别 (ASR) 系统的环境搭建与运行.
 
 ### 🤖 其他智能模型
 
-- **[OpenClaw 部署文档](OpenClaw部署文档.md)**: 相关智能体或工具的部署指南。
+- **[OpenClaw 部署文档](OpenClaw部署文档.md)**: 相关智能体或工具的部署指南.
 
 ---
 
