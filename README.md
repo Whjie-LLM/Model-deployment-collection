@@ -68,7 +68,7 @@
 
 1. **克隆仓库**:
    ```bash
-   git clone git@github.com:beizhai35/Model-deployment-collection.git
+   git clone git@github.com:Whjie-LLM/Model-deployment-collection.git
    cd Model-deployment-collection
    ```
 2. **查找文档**: 根据目录结构找到你感兴趣的模型文档。
@@ -93,5 +93,5 @@
 
 ---
 
-**维护者**: [@beizhai35](https://github.com/beizhai35)
+**维护者**: [@Whjie-LLM](https://github.com/Whjie-LLM)
 **邮箱**: whjie@163.com，wwhjie@qq.com, whjie1596@gmail.com
